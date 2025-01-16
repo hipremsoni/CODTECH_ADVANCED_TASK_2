@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 #### 3. Run The Tool :
 ```bash 
-python3 scan.py 
+python3 web_vuln_scanner.py 
 ```
 
 ### Prerequisites

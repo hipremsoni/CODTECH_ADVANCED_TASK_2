@@ -70,11 +70,12 @@ python web_vuln_scanner.py
 3. The scanner will analyze the website and its links, testing for common vulnerabilities such as SQL injection and XSS.
 
 4. After the scan completes, a detailed report will be displayed on the terminal.
+### Screenshots
+![image-1](https://github.com/user-attachments/assets/f1acb96d-21ee-486d-a02c-cae57504666d)
+![image-2](https://github.com/user-attachments/assets/84699664-a003-48ab-a4cf-105b23fa8d24)
 
 ### Example
 
-![alt text](image-1.png)
-![alt text](image-2.png)
 
 ```bash
 __        __   _      __     __     _       
